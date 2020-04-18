@@ -19,7 +19,7 @@ input {
 .title {
   font-weight: bold;
   font-size: 60px;
-  font-family: cursive;
+  font-family: cursive, monospace;
   color: LightCoral;
 }
 
