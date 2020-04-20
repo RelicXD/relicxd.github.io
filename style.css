@@ -1,0 +1,165 @@
+.topBar {
+    background-color: black;
+    height: 80px;
+    margin: -21px -8px;
+    opacity: 65%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+.TL {
+    color: white;
+    text-decoration: overline;
+    margin: 10px 30px;
+    display: inline;
+    position: absolute;
+    left: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: none;
+}
+
+.hobbies {
+    color: white;
+    text-decoration: overline;
+    margin: 10px;
+    display: inline;
+    position: absolute;
+    left: 83%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: none;
+}
+
+.webpages {
+    color: white;
+    text-decoration: overline;
+    margin: 10px;
+    display: inline;
+    position: absolute;
+    left: 91.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: none;
+}
+
+.hobbiesLink {
+    color: white;
+    text-decoration: none;
+    background: none;
+}
+
+.webpagesLink {
+    color: white;
+    text-decoration: none;
+    background: none;
+}
+
+img {
+    max-height: 1000px;
+    min-height: 250px;
+    max-width: 1500px;
+    min-width: 380px;
+    position: absolute;
+    left: 23%;
+    border: 5px solid gold;
+    border-radius: 70px;
+}
+
+.imagecontainer {
+    height: 1000px;
+    width: 1500px;
+    min-height: 250px;
+    min-width: 380px;
+    background-image: url(blur.png);
+    position: absolute;
+    left: 23%;
+    border: 5px solid gold;
+    border-radius: 70px;
+}
+
+.imageText {
+    text-align: center;
+    position: absolute;
+    top: 36%;
+    left: 28%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 95px;
+    color: black;
+    opacity: 60%;
+    background: none;
+}
+
+.hobbiesTitle {
+    position: absolute;
+    top: 87.5%;
+    left: 47.5%;
+    font-size: 85px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.item1 {
+    position: absolute;
+    top: 100%;
+    left: 25%;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+.item2 {
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+.item3 {
+    position: absolute;
+    top: 120%;
+    left: 48.5%;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+.item4 {
+    position: absolute;
+    top: 130%;
+    left: 48.5%;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+.item5 {
+    position: absolute;
+    top: 140%;
+    left: 46.5%;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+.webpagesTitle {
+    position: absolute;
+    top: 157%;
+    left: 43%;
+    font-size: 85px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.webpage1 {
+    position: absolute;
+    top: 170%;
+    left: 39%;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+.webpage2 {
+    position: absolute;
+    top: 180%;
+    left: 38.5%;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+* {
+    background-color: lightgoldenrodyellow;
+}
