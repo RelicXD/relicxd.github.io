@@ -1,7 +1,7 @@
 .topBar {
     background-color: black;
-    height: 80px;
-    margin: -21px -8px;
+    height: 6.4%;
+    margin: -0.81% -0.38%;
     opacity: 65%;
     width: 100%;
     position: fixed;
@@ -11,7 +11,7 @@
 .TL {
     color: white;
     text-decoration: overline;
-    margin: 10px 30px;
+    margin: 0.4% 1.2%;
     display: inline;
     position: absolute;
     left: 0%;
@@ -22,7 +22,7 @@
 .hobbies {
     color: white;
     text-decoration: overline;
-    margin: 10px;
+    margin: 0.4%;
     display: inline;
     position: absolute;
     left: 83%;
@@ -33,7 +33,7 @@
 .webpages {
     color: white;
     text-decoration: overline;
-    margin: 10px;
+    margin: 0.4%;
     display: inline;
     position: absolute;
     left: 91.5%;
@@ -65,15 +65,13 @@ img {
 }
 
 .imagecontainer {
-    height: 1000px;
-    width: 1500px;
-    min-height: 250px;
-    min-width: 380px;
+    height: 85%;
+    width: 60%;
     background-image: url(blur.png);
     position: absolute;
     left: 23%;
-    border: 5px solid gold;
-    border-radius: 70px;
+    border: 0.3em solid goldenrod;
+    border-radius: 6.5%;
 }
 
 .imageText {
@@ -82,7 +80,7 @@ img {
     top: 36%;
     left: 28%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 95px;
+    font-size: 600%;
     color: black;
     opacity: 60%;
     background: none;
@@ -92,7 +90,7 @@ img {
     position: absolute;
     top: 87.5%;
     left: 47.5%;
-    font-size: 85px;
+    font-size: 530%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -100,7 +98,7 @@ img {
     position: absolute;
     top: 100%;
     left: 25%;
-    font-size: 60px;
+    font-size: 460%;
     font-family: monospace;
 }
 
@@ -108,7 +106,7 @@ img {
     position: absolute;
     top: 110%;
     left: 50%;
-    font-size: 60px;
+    font-size: 460%;
     font-family: monospace;
 }
 
@@ -116,7 +114,7 @@ img {
     position: absolute;
     top: 120%;
     left: 48.5%;
-    font-size: 60px;
+    font-size: 460%;
     font-family: monospace;
 }
 
@@ -124,7 +122,7 @@ img {
     position: absolute;
     top: 130%;
     left: 48.5%;
-    font-size: 60px;
+    font-size: 460%;
     font-family: monospace;
 }
 
@@ -132,7 +130,7 @@ img {
     position: absolute;
     top: 140%;
     left: 46.5%;
-    font-size: 60px;
+    font-size: 460%;
     font-family: monospace;
 }
 
@@ -140,7 +138,7 @@ img {
     position: absolute;
     top: 157%;
     left: 43%;
-    font-size: 85px;
+    font-size: 530%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -148,7 +146,7 @@ img {
     position: absolute;
     top: 170%;
     left: 39%;
-    font-size: 60px;
+    font-size: 460%;
     font-family: monospace;
 }
 
@@ -156,7 +154,7 @@ img {
     position: absolute;
     top: 180%;
     left: 38.5%;
-    font-size: 60px;
+    font-size: 460%;
     font-family: monospace;
 }
 
