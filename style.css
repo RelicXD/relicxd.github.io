@@ -1,3 +1,8 @@
+.container {
+    max-width: 1920px;
+    max-height: 1080px;
+}
+
 .topBar {
     background-color: black;
     height: 6.4%;
@@ -17,6 +22,7 @@
     left: 0%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: none;
+    font-size: 1.5vw;
 }
 
 .hobbies {
@@ -28,6 +34,7 @@
     left: 83%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: none;
+    font-size: 1.5vw;
 }
 
 .webpages {
@@ -36,9 +43,10 @@
     margin: 0.4%;
     display: inline;
     position: absolute;
-    left: 91.5%;
+    left: 91%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: none;
+    font-size: 1.5vw;
 }
 
 .hobbiesLink {
@@ -80,7 +88,7 @@ img {
     top: 36%;
     left: 28%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 600%;
+    font-size: 3.8vw;
     color: black;
     opacity: 60%;
     background: none;
@@ -90,74 +98,98 @@ img {
     position: absolute;
     top: 87.5%;
     left: 47.5%;
-    font-size: 530%;
+    font-size: 3.2vw;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: none;
 }
 
 .item1 {
     position: absolute;
     top: 100%;
     left: 25%;
-    font-size: 460%;
+    font-size: 2.3vw;
     font-family: monospace;
+    background: none;
 }
 
 .item2 {
     position: absolute;
     top: 110%;
     left: 50%;
-    font-size: 460%;
+    font-size: 2.3vw;
     font-family: monospace;
+    background: none;
 }
 
 .item3 {
     position: absolute;
     top: 120%;
     left: 48.5%;
-    font-size: 460%;
+    font-size: 2.3vw;
     font-family: monospace;
+    background: none;
 }
 
 .item4 {
     position: absolute;
     top: 130%;
     left: 48.5%;
-    font-size: 460%;
+    font-size: 2.3vw;
     font-family: monospace;
+    background: none;
 }
 
 .item5 {
     position: absolute;
     top: 140%;
     left: 46.5%;
-    font-size: 460%;
+    font-size: 2.3vw;
     font-family: monospace;
+    background: none;
 }
 
 .webpagesTitle {
     position: absolute;
     top: 157%;
     left: 43%;
-    font-size: 530%;
+    font-size: 3.2vw;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: none;
 }
 
 .webpage1 {
     position: absolute;
     top: 170%;
     left: 39%;
-    font-size: 460%;
+    font-size: 2.3vw;
     font-family: monospace;
+    background: none;
 }
 
 .webpage2 {
     position: absolute;
     top: 180%;
     left: 38.5%;
-    font-size: 460%;
+    font-size: 2.3vw;
     font-family: monospace;
+    background: none;
 }
 
 * {
     background-color: lightgoldenrodyellow;
+}
+
+#menu-container {
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 320px) {
+
+    /*Write your css here*/
+
+}
+
+@media screen and (max-width: 800px) {
 }
