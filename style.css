@@ -6,17 +6,18 @@
 .topBar {
     background-color: black;
     height: 6.4%;
-    margin: -0.81% -0.38% -0.81% -0.31%;
+    margin: -0.8vw -0.5vw -0.9vw -0.85vw;
     opacity: 65%;
-    width: 100%;
+    width: 100vw;
     position: fixed;
+    overflow: hidden;
     z-index: 1;
 }
 
 .TL {
     color: white;
     text-decoration: overline;
-    margin: 0.4% 1.2%;
+    margin: 0.38vw 1.35vw;
     display: inline;
     position: absolute;
     left: 0%;
@@ -25,10 +26,21 @@
     font-size: 1.5vw;
 }
 
+.aboutMe {
+    color: white;
+    text-decoration: overline;
+    margin: 0.38vw 0.7vw;
+    display: inline;
+    position: absolute;
+    left: 74%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: none;
+    font-size: 1.5vw;
+}
 .hobbies {
     color: white;
     text-decoration: overline;
-    margin: 0.4%;
+    margin: 0.38vw 0.7vw;
     display: inline;
     position: absolute;
     left: 83%;
@@ -40,13 +52,19 @@
 .webpages {
     color: white;
     text-decoration: overline;
-    margin: 0.4%;
+    margin: 0.38vw 0.5vw;
     display: inline;
     position: absolute;
     left: 91%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: none;
     font-size: 1.5vw;
+}
+
+.aboutMeLink {
+    color: white;
+    text-decoration: none;
+    background: none;
 }
 
 .hobbiesLink {
@@ -73,12 +91,12 @@ img {
 }
 
 .imagecontainer {
-    height: 80%;
-    width: 60%;
+    height: 40.55vw;
+    width: 60vw;
     background-image: url(blur.png);
     position: absolute;
-    left: 21%;
-    border: 0.3em solid goldenrod;
+    left: 21.25%;
+    border: 0.2vw solid cornflowerblue;
     border-radius: 6.5%;
 }
 
@@ -91,7 +109,7 @@ img {
     top: 56.5%;
     background-color: white;
     opacity: 65%;
-    border-radius: 2em;
+    border-radius: 1vw;
 }
 
 .imageText3 {
